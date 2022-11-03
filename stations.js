@@ -22,7 +22,6 @@ function chooseStations(stations) {
     }
   }
 
-return goodStations
-
-console.log(goodStations)
+  return goodStations
 }
+console.log(chooseStations(stations))
